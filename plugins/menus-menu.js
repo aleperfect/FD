@@ -25,7 +25,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
  ▢ *Hola,* ${taguser}
 
- ▢ *Owner:* Aleizn
+ ▢ *Owner:* 𝐘𝐎𝐕𝐍𝐆𝐂𝐇𝐈𝐌𝐈
  ▢ *Contacto:* Wa.me/+51992621691
  ▢ *Creador:* +51992621691
  ▢ *Vendedor:* +51992621691
